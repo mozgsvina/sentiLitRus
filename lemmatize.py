@@ -5,6 +5,8 @@ import ru_core_news_md
 import pandas as pd
 import os
 
+# TODO define a function to lemmatize list of strings, call from main
+
 PATH_TO_CORPUS = "data/sample_corpus/"
 nlp = ru_core_news_md.load()
 
