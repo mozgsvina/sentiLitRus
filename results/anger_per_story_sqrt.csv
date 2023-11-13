@@ -1,0 +1,11 @@
+StoryID,story_freq,story_emo_score,FILE NAME,n_words
+S115,17,11.207,S115_vlasov_n_pod_luchami_krasoti_1920.txt,1619
+S058,33,21.907,S058_militsyna_e_v_lesu_1902.txt,2057
+S071,41,28.007,S071_remizov_a_krepost_1906.txt,1533
+S028,116,80.486,S028_fedorow_a_zerkalo_1909.txt,3852
+S083,139,93.547,S083_surguchev_i_sosedka_1909.txt,11319
+S102,39,26.707,S102_asheshov_n_telegrafistka_1914.txt,3131
+S016,10,7.104,S016_brjusow_w_mramornaja_golovka.txt,1206
+S004,41,27.74,S004_arcybashew_m_v_derevne_1906.txt,2125
+S043,34,23.236,S043_karmen_l_za_chto_1904.txt,1764
+S093,198,134.409,S093_werbickaja_a_pozdno_1904.txt,8961
